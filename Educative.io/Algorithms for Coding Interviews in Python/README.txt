@@ -1,6 +1,8 @@
-<h1>Algorithms for Coding Interviews in Python</h1>
+ ********************************************
+| Algorithms for Coding Interviews in Python |
+ ********************************************
 
-<h2>Percentage of progress in the course: 40%</h2>
+* Percentage of progress in the course: 40%
 
 
 At the beginning of the course, an introduction to algorithmic paradigms such as:
